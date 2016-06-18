@@ -6,6 +6,12 @@ Please use this comprehensive [Full-Stack Redux Tutorial](http://teropa.info/blo
 
 Git clone this repository.
 
+(Do this first time only) install npm module dependencies:
+
+```
+npm install
+```
+
 Start the webpack web client:
 
 ```
